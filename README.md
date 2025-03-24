@@ -29,7 +29,7 @@ This project is a Node.js application built with TypeScript and a class-based ar
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git](https://github.com/monilpatildev/node-ts-jwt-auth.git
+   git clone https://github.com/monilpatildev/node-ts-jwt-auth.git
    cd your-repo
    
    npm install
