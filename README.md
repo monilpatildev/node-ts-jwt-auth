@@ -7,7 +7,7 @@ This project is a Node.js application built with TypeScript and a class-based ar
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- 
+
 ## Features
 
 - **Class-Based Architecture:** Organized code with classes for scalability and maintainability.
